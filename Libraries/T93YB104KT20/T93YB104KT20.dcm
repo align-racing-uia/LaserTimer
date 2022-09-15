@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T93YB104KT20
+D Vishay T93 Series 21 (Electrical), 23 (Mechanical)-Turn Through Hole Trimmer Resistor with PC Pin Terminations, 100k
+K
+F https://www.vishay.com/docs/51026/t93.pdf
+$ENDCMP
+#
+#End Doc Library
